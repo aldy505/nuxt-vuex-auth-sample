@@ -1,4 +1,8 @@
 {
+  "major": { 
+    "mergeable": false
+  },
+  "semanticCommits": "enabled",
   "extends": [
     "config:base"
   ]
