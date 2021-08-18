@@ -1,12 +1,8 @@
+# Nuxt Vuex Auth Sample
 
-# Nuxt Vuex Auth
-This is **not** a module, dependency, or a boilerplate. This is meant for me to learn how you can create good auth system through Nuxt and Vuex. The backend is provided through server middleware with Express.
+This was meant to be my place to learn Nuxt + Vuex + Auth, but days went by and most people ask how to create an auth system without using @nuxt/auth (as I normally would do). So here it is, I refactored it a few months since I began this repository to create a working app with my style of writing code as of now.
 
-Please make sure that localhost port 3000 is available, if not, you will mess the axios calls. Thank you.
-
-Any feedback for cleaner code will be appreciated, please put it directly through Issues.
-
-  
+If you want to steal things here and there, you're allowed. If you want to run it on your machine, you will need Node v14 installed first.
 
 ## Build Setup
 ```bash
@@ -23,4 +19,5 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
